@@ -4,11 +4,12 @@
 - 📫 How to reach me gmail: sahanirmalyo96@gmail.com
 Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
-To view a demo example, **[click here](https://nirmalya-saha-portfolio.netlify.app/)**\
-<!---
-Nirmalya-Saha96/Nirmalya-Saha96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Profile Links
+- **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  2000+ connections
+- **[Github](https://github.com/Nirmalya-Saha96)**\  260+commits
+- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  41th  Rank In Institution (Haldia Institute of Technology) 330+ score
+- **[CodeChef](https://www.codechef.com/users/nirmalya_saha)**\  2🌟 Programmer
+- **[Portfolio](http://me.nirmalyasaha.live/)**\  find me at me.nirmalyasaha.live
 
 # Education
 
