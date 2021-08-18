@@ -20,6 +20,13 @@ You can click the Preview link to take a look at your changes.
 ~ ICSE (Class X), Percentage: 90%
 
 
+# Experience
+
+- Lets Grow More | Web Developer Intern   
+- SSB Info Pvt Ltd | Web Developer Intern
+- Campus Mantri at GeeksforGeeks	
+- Internshala Student Partner at Internshala	
+
 
 
 
