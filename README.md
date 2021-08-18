@@ -13,11 +13,11 @@ You can click the Preview link to take a look at your changes.
 # Education
 
 - Haldia Institute of Technology (HIT), Haldia, India 
-       ● B-tech in Computer Science and Engineering | **[CGPA: 9.95/10](https://drive.google.com/file/d/1yGMz3c04qAsEyFhdFihpJkj1WYL60shz/view)**\
+- B-tech in Computer Science and Engineering | **[CGPA: 9.95/10](https://drive.google.com/file/d/1yGMz3c04qAsEyFhdFihpJkj1WYL60shz/view)**\
 - Sudhir Memorial Institute, Liluah India
-       ● CBSE(Class XII), Aggregate: 90%
+- CBSE(Class XII), Aggregate: 90%
 - Methodist School Dankuni, India 
-       ● ICSE (Class X), Percentage: 90%
+- ICSE (Class X), Percentage: 90%
 
 
 
