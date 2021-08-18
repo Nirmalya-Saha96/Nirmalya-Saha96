@@ -6,7 +6,7 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Profile Links
 - **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  2000+ connections
-- **[Github](https://github.com/Nirmalya-Saha96)**\  260+commits
+- **[Github](https://github.com/Nirmalya-Saha96)**\  270+commits
 - **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  41th  Rank In Institution (Haldia Institute of Technology) 330+ score
 - **[CodeChef](https://www.codechef.com/users/nirmalya_saha)**\  2🌟 Programmer
 - **[Portfolio](http://me.nirmalyasaha.live/)**\  find me at me.nirmalyasaha.live
@@ -56,7 +56,7 @@ Java| C++| ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | SQLite | 
 
 - Web Dveloper at **[HITian Inside](https://www.linkedin.com/posts/nirmalya-saha-625993201_activity-6822601727884214272-V2Oi/)**\
 - Web Developer at **[HIT Needs](https://www.instagram.com/p/CRifu87BfoT/?utm_source=ig_web_copy_link)**\
-- Web Developer ar **[Taru Guardians](https://www.linkedin.com/posts/nirmalya-saha-625993201_team-webdevelopment-congratulations-activity-6818430613234737152-vhJn/)**\
+- Web Developer at **[Taru Guardians](https://www.linkedin.com/posts/nirmalya-saha-625993201_team-webdevelopment-congratulations-activity-6818430613234737152-vhJn/)**\
 
 
 
