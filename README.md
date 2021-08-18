@@ -38,6 +38,14 @@ Java| C++| ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | SQLite | 
 - Secrets website   **[Live Link](https://morning-cliffs-64096.herokuapp.com/)**\   **[Github Repository](https://github.com/Nirmalya-Saha96/Secrets)**\
 - Wiki Api     **[Github Repository](https://github.com/Nirmalya-Saha96/Wiki-api)**\
 
+# Projects in Android Development
+
+- Food Runner App   **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-android-app-activity-6771681627237081088--evJ)**\   **[Github Repository](https://github.com/Nirmalya-Saha96/FoodRuunner-App)**\
+- BookHub App **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-activity-6763902711118270465-Phlm)**\   **[Github Repository](https://github.com/Nirmalya-Saha96/Bookhub-App-Final)**\
+- Notes App     **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-activity-6764974726084382720-K9UM)**\   **[Github Repository](https://github.com/Nirmalya-Saha96/Notes-App)**\
+- Meme Sahre App  **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_android-app-activity-6763896813993951232-osPh)**\   **[Github Repository](https://github.com/Nirmalya-Saha96/MemeShare-App)**\
+- Avengers App  **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-activity-6760440539159560192-Z_Wx)**\   **[Github Repository](https://github.com/Nirmalya-Saha96/Avenger-app)**\
+
 
 
 
