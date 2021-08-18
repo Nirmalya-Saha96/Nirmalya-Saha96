@@ -27,6 +27,9 @@ You can click the Preview link to take a look at your changes.
 - Campus Mantri at GeeksforGeeks	
 - Internshala Student Partner at Internshala	
 
+# Skills
+Java| C++| ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | SQLite | Kotlin | JavaScript | XML | Socket.io | Git
+
 # Projects  in  Full Stack Development
 
 - Connector   **[Live Link](https://nirmalyo-socialmedia.herokuapp.com/)**\   **[Github Repository](https://github.com/Nirmalya-Saha96/Social-media-2.0)**\
