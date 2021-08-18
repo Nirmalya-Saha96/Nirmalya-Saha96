@@ -52,7 +52,11 @@ Java| C++| ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | SQLite | 
 - Simon Game  **[Live Link](https://nirmalya-saha96.github.io/simon/)**\   
 - Drumkit     **[Live Link](https://nirmalya-saha96.github.io/Drumkit/)**\   
 
+# Position of Responsibility
 
+- Web Dveloper at **[HITian Inside](https://www.linkedin.com/posts/nirmalya-saha-625993201_activity-6822601727884214272-V2Oi/)**\
+- Web Developer at **[HIT Needs](https://www.instagram.com/p/CRifu87BfoT/?utm_source=ig_web_copy_link)**\
+- Web Developer ar **[Taru Guardians](https://www.linkedin.com/posts/nirmalya-saha-625993201_team-webdevelopment-congratulations-activity-6818430613234737152-vhJn/)**\
 
 
 
