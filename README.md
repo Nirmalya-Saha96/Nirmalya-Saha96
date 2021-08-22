@@ -33,7 +33,7 @@ Java| C++| ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | SQLite | 
 
 # Projects  in  Full Stack Development
 
-- Connector   **[Live Link](https://nirmalyo-socialmedia.herokuapp.com/)**\   
+- Connector   **[Live Link](https://nirmalya-connector.herokuapp.com/)**\   
 - Features    **[Live Link](https://nirmalyo-features.herokuapp.com/)**\   
 - Blog website  **[Live Link](https://gentle-beach-59251.herokuapp.com/)**\   
 - Secrets website   **[Live Link](https://morning-cliffs-64096.herokuapp.com/)**\  
