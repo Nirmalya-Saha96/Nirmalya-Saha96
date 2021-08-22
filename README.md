@@ -6,7 +6,7 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Profile Links
 - **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  2000+ connections
-- **[Github](https://github.com/Nirmalya-Saha96)**\  270+commits
+- **[Github](https://github.com/Nirmalya-Saha96)**\  300+commits
 - **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  41th  Rank In Institution (Haldia Institute of Technology) 330+ score
 - **[CodeChef](https://www.codechef.com/users/nirmalya_saha)**\  2🌟 Programmer
 - **[Portfolio](http://me.nirmalyasaha.live/)**\  find me at me.nirmalyasaha.live
