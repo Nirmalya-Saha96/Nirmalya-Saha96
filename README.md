@@ -5,16 +5,16 @@
 Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Profile Links
-- **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  2000+ connections
+- **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  2500+ connections
 - **[Github](https://github.com/Nirmalya-Saha96)**\  300+commits
-- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  41th  Rank In Institution (Haldia Institute of Technology) 330+ score
-- **[CodeChef](https://www.codechef.com/users/nirmalya_saha)**\  2🌟 Programmer
+- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  39th  Rank In Institution (Haldia Institute of Technology) 350+ score
+- **[CodeChef](https://www.codechef.com/users/nirmalya_saha)**\  3🌟 Programmer
 - **[Portfolio](http://me.nirmalyasaha.live/)**\  find me at me.nirmalyasaha.live
 
 # Education
 
 - Haldia Institute of Technology (HIT), Haldia, India 
-~ B-tech in Computer Science and Engineering | **[CGPA: 9.95/10](https://drive.google.com/file/d/1yGMz3c04qAsEyFhdFihpJkj1WYL60shz/view)**\
+~ B-tech in Computer Science and Engineering | **[CGPA: 9.97/10](https://drive.google.com/file/d/1FC8YYE8IfHs2aUhOUykQQIerY_gGpEDZ/view)**\
 - Sudhir Memorial Institute, Liluah India
 ~ CBSE(Class XII), Aggregate: 90%
 - Methodist School Dankuni, India 
@@ -25,11 +25,12 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 - Lets Grow More | Web Developer Intern   
 - SSB Info Pvt Ltd | Web Developer Intern
+- The Sparks Foundation | Web Developer and Design Intern
 - Campus Mantri at GeeksforGeeks	
 - Internshala Student Partner at Internshala	
 
 # Skills
-Java| C++| ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | SQLite | Kotlin | JavaScript | XML | Socket.io | Git
+Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | Socket.io | Git | REST-Api | Cryptography-(AES)
 
 # Projects  in  Full Stack Development
 
@@ -41,6 +42,7 @@ Java| C++| ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | SQLite | 
 
 # Projects in Android Development
 
+- College Street with End-To-End Encryption and Machine Learning  **[Live Link]( https://www.linkedin.com/posts/nirmalya-saha-625993201_cryptography-machinelearnig-searchengine-activity-6861649646620618752-hr6C/)**\ 
 - Food Runner App   **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-android-app-activity-6771681627237081088--evJ)**\  
 - BookHub App **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-activity-6763902711118270465-Phlm)**\   
 - Notes App     **[Live Link](https://www.linkedin.com/posts/nirmalya-saha-625993201_androiddevelopment-activity-6764974726084382720-K9UM)**\   
