@@ -23,6 +23,7 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Experience
 
+- Freelancer | Full Stack Freelace Developer
 - Lets Grow More | Web Developer Intern   
 - SSB Info Pvt Ltd | Web Developer Intern
 - The Sparks Foundation | Web Developer and Design Intern
@@ -34,7 +35,7 @@ Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Expres
 
 # Projects  in  Full Stack Development
 
-- Connector   **[Live Link](https://nirmalya-connector.herokuapp.com/)**\   
+- Connector   **[Live Link](https://nirmalyo-connectordevelopers.herokuapp.com/)**\   
 - Features    **[Live Link](https://nirmalyo-features.herokuapp.com/)**\   
 - Blog website  **[Live Link](https://gentle-beach-59251.herokuapp.com/)**\   
 - Secrets website   **[Live Link](https://morning-cliffs-64096.herokuapp.com/)**\  
