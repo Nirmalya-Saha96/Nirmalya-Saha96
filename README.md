@@ -1,14 +1,15 @@
 - 👋 Hi, I’m @Nirmalya-Saha96
+- I'm interested in BlockChain Development
 - 👀 I’m interested in Android Development and Web Development
 - 💞️ I’m looking to collaborate on Android and Web projects
 - 📫 How to reach me gmail: sahanirmalyo96@gmail.com
 Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Profile Links
-- **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  2500+ connections
-- **[Github](https://github.com/Nirmalya-Saha96)**\  380+commits
-- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  39th  Rank In Institution (Haldia Institute of Technology) 350+ score
-- **[CodeChef](https://www.codechef.com/users/nirmalya_saha)**\  3🌟 Programmer
+- **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  3300+ connections
+- **[Github](https://github.com/Nirmalya-Saha96)**\  420+commits
+- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  15th  Rank In Institution (Haldia Institute of Technology) 800+ score
+- **[CodeChef](https://www.codechef.com/users/nirmalyasaha)**\  🌟 Programmer
 - **[Portfolio](http://me.nirmalyasaha.live/)**\  find me at me.nirmalyasaha.live
 
 # Education
@@ -23,7 +24,7 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Experience
 
-- Freelancer | Full Stack Freelace Developer
+- Freelancer | Full Stack, Android, BlockChain Freelace Developer
 - Lets Grow More | Web Developer Intern   
 - SSB Info Pvt Ltd | Web Developer Intern
 - The Sparks Foundation | Web Developer and Design Intern
@@ -31,7 +32,14 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 - Internshala Student Partner at Internshala	
 
 # Skills
-Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | Socket.io | Git | REST-Api | Cryptography-(AES)
+Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Express | MongoDB | PostgreSQL | Socket.io | Git | REST-Api | Cryptography-(AES) | Solidity
+| IPFS-network | Mocha | Next.js
+
+# Projects in BlockChain
+- PattiPatni   **[Github Repo](https://github.com/Nirmalya-Saha96/PattiPatni)**\   
+- Auction Website **[Github Repo](https://github.com/Nirmalya-Saha96/CodeLinking)**\  **Finalist in Hack-A-Web Hackathon**
+- FundRaiser **[Github Repo](https://github.com/Nirmalya-Saha96/FundRaiser)**\
+- Lottery **[Github Repo](https://github.com/Nirmalya-Saha96/Lottery)**\
 
 # Projects  in  Full Stack Development
 
@@ -60,25 +68,17 @@ Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Expres
 - Web Dveloper at **[HITian Inside](https://www.linkedin.com/posts/nirmalya-saha-625993201_activity-6822601727884214272-V2Oi/)**\
 - Web Developer at **[HIT Needs](https://www.instagram.com/p/CRifu87BfoT/?utm_source=ig_web_copy_link)**\
 - Web Developer at **[Taru Guardians](https://www.linkedin.com/posts/nirmalya-saha-625993201_team-webdevelopment-congratulations-activity-6818430613234737152-vhJn/)**\
+- Technical Staff at **[IEEE](https://www.facebook.com/ieeehit/photos/pcb.5017552111620858/5017551831620886)**\
+
+# Achievements
+
+- 15 Rank in **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\ with 800+ score
+- Finalist in Hack-A-Web Hackathon
+- Open source contributor 420+commits, participated in GSSOC
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nirmalya-Saha96&show_icons=true&locale=en&layout=compact" alt="Nirmalya-Saha96" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nirmalya-Saha96&show_icons=true&locale=en" alt="Nirmalya-Saha96" /></p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmalya-Saha96&" alt="Nirmalya-Saha96" /></p>
