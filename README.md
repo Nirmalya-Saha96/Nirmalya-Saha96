@@ -8,8 +8,8 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 # Profile Links
 - **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  3300+ connections
 - **[Github](https://github.com/Nirmalya-Saha96)**\  420+commits
-- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  15th  Rank In Institution (Haldia Institute of Technology) 800+ score
-- **[CodeChef](https://www.codechef.com/users/nirmalyasaha)**\  🌟 Programmer
+- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  14th  Rank In Institution (Haldia Institute of Technology) 800+ score
+- **[CodeChef](https://www.codechef.com/users/nirmalyasaha)**\  🌟 🌟 Programmer
 - **[Portfolio](http://me.nirmalyasaha.live/)**\  find me at me.nirmalyasaha.live
 
 # Education
@@ -24,6 +24,7 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Experience
 
+- Yottolabs Pvt Ltd | Android Developer
 - Freelancer | Full Stack, Android, BlockChain Freelace Developer
 - Lets Grow More | Web Developer Intern   
 - SSB Info Pvt Ltd | Web Developer Intern
@@ -72,10 +73,11 @@ Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Expres
 
 # Achievements
 
-- 15 Rank in **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\ with 800+ score
+- 14 Rank in **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\ with 800+ score
 - Finalist in Hack-A-Web Hackathon
 - Open source contributor 420+commits, participated in GSSOC
-
+- 2-start CodeChef Programmer
+- Mile Stone 1 Google Quicklabs
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nirmalya-Saha96&show_icons=true&locale=en&layout=compact" alt="Nirmalya-Saha96" /></p>
 
