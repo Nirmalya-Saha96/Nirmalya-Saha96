@@ -15,7 +15,7 @@
 # Education
 
 - Haldia Institute of Technology (HIT), Haldia, India 
-~ B-tech in Computer Science and Engineering | **[CGPA 1st Year: 9.97/10](https://drive.google.com/file/d/1FC8YYE8IfHs2aUhOUykQQIerY_gGpEDZ/view)**\**[CGPA 2nd Year: 9.62/10](https://drive.google.com/file/d/116a-TOytQaaEcVBYeis9-nK4RzZidQr-/view?usp=sharing)**
+~ B-tech in Computer Science and Engineering | **[CGPA 1st Year: 9.97/10](https://drive.google.com/file/d/1FC8YYE8IfHs2aUhOUykQQIerY_gGpEDZ/view) | [CGPA 2nd Year: 9.62/10](https://drive.google.com/file/d/116a-TOytQaaEcVBYeis9-nK4RzZidQr-/view?usp=sharing)**
 - Sudhir Memorial Institute, Liluah India
 ~ CBSE(Class XII), Aggregate: 90%
 - Methodist School Dankuni, India 
