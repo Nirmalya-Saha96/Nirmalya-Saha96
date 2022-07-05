@@ -3,7 +3,7 @@
 - 👀 I’m interested in Android Development Web Development, BlockChain Development and Cloud Architecture
 - 💞️ I’m looking to collaborate on Android, Web, BlockChain, Cryptography, Cloud Architecture projects
 - 📫 How to reach me gmail: nirmalya.saha201@gmail.com
-Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
+- Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Profile Links
 - **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  3300+ connections
