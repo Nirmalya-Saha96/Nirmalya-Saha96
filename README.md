@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nirmalya-Saha96
 - I'm interested in BlockChain Development
-- 👀 I’m interested in Android Development and Web Development
-- 💞️ I’m looking to collaborate on Android and Web projects
-- 📫 How to reach me gmail: sahanirmalyo96@gmail.com
+- 👀 I’m interested in Android Development Web Development, BlockChain Development and Cloud Architecture
+- 💞️ I’m looking to collaborate on Android, Web, BlockChain, Cryptography, Cloud Architecture projects
+- 📫 How to reach me gmail: nirmalya.saha201@gmail.com
 Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Profile Links
@@ -15,7 +15,7 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 # Education
 
 - Haldia Institute of Technology (HIT), Haldia, India 
-~ B-tech in Computer Science and Engineering | **[CGPA: 9.97/10](https://drive.google.com/file/d/1FC8YYE8IfHs2aUhOUykQQIerY_gGpEDZ/view)**\
+~ B-tech in Computer Science and Engineering | **[CGPA 1st Year: 9.97/10](https://drive.google.com/file/d/1FC8YYE8IfHs2aUhOUykQQIerY_gGpEDZ/view)**\**[CGPA 2nd Year: 9.62/10](https://drive.google.com/file/d/116a-TOytQaaEcVBYeis9-nK4RzZidQr-/view?usp=sharing)**
 - Sudhir Memorial Institute, Liluah India
 ~ CBSE(Class XII), Aggregate: 90%
 - Methodist School Dankuni, India 
@@ -24,7 +24,8 @@ Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Experience
 
-- Yottolabs Pvt Ltd | Android Developer
+- DeltaV Robotics Pvt Ltd | FrontEnd Developer Intern
+- NamaSYS | FullStack Developer Intern
 - Freelancer | Full Stack, Android, BlockChain Freelace Developer
 - Lets Grow More | Web Developer Intern   
 - SSB Info Pvt Ltd | Web Developer Intern
@@ -75,7 +76,7 @@ Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Expres
 
 - 14 Rank in **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\ with 800+ score
 - Finalist in Hack-A-Web Hackathon
-- Open source contributor 420+commits, participated in GSSOC
+- Open source contributor 420+commits, participated in GSSOC, SWOC, DIVERSION
 - 2-start CodeChef Programmer
 - Mile Stone 1 Google Quicklabs
 
@@ -84,3 +85,15 @@ Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Expres
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nirmalya-Saha96&show_icons=true&locale=en" alt="Nirmalya-Saha96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmalya-Saha96&" alt="Nirmalya-Saha96" /></p>
+
+
+
+
+
+
+[script_winter_of_code.pdf](https://github.com/Nirmalya-Saha96/Nirmalya-Saha96/files/9044486/script_winter_of_code.pdf)
+
+![Diversion](https://user-images.githubusercontent.com/81407181/177280285-5d70abe9-cb9a-47be-abb4-82d769b4a0b0.jpg)
+
+
+
