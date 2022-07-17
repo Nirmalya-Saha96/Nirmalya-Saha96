@@ -6,10 +6,10 @@
 - Linkedin :https://www.linkedin.com/in/nirmalya-saha-625993201/
 
 # Profile Links
-- **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  3300+ connections
-- **[Github](https://github.com/Nirmalya-Saha96)**\  420+commits
-- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  14th  Rank In Institution (Haldia Institute of Technology) 800+ score
-- **[CodeChef](https://www.codechef.com/users/nirmalyasaha)**\  🌟 🌟 Programmer
+- **[Linkedin](https://www.linkedin.com/in/nirmalya-saha-625993201/)**\  3500+ connections
+- **[Github](https://github.com/Nirmalya-Saha96)**\  600+commits
+- **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\  24th  Rank In Institution (Haldia Institute of Technology) 800+ score
+- **[CodeChef](https://www.codechef.com/users/nirmalyasaha)**\  🌟 🌟 🌟 Programmer
 - **[Portfolio](http://me.nirmalyasaha.live/)**\  find me at me.nirmalyasaha.live
 
 # Education
@@ -74,10 +74,10 @@ Java | C++ |Kotlin | XML | SQLite | Firebase | ReactJS | Redux | NodeJS | Expres
 
 # Achievements
 
-- 14 Rank in **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\ with 800+ score
-- Finalist in Hack-A-Web Hackathon
-- Open source contributor 420+commits, participated in GSSOC, SWOC, DIVERSION
-- 2-start CodeChef Programmer
+- 24 Rank in **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/nirmalyasaha/practice/)**\ with 800+ score
+- Finalist in Hack-A-Web Hackathon 2022
+- Open source contributor 600+commits, participated in GSSOC, SWOC, DIVERSION
+- 3-start CodeChef Programmer
 - Mile Stone 1 Google Quicklabs
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nirmalya-Saha96&show_icons=true&locale=en&layout=compact" alt="Nirmalya-Saha96" /></p>
